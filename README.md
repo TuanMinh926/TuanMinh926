@@ -10,5 +10,5 @@ I'm Tuan Pham. Currently, i am studying Data Science at Industrial University of
 
 <p align="center">
 <a href="mailto:mtp92621@gmail.com"><img src="https://img.shields.io/badge/-mtp92621@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100016210591166"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100016210591166"><img src="https://img.shields.io/badge/-@Tuan Pham-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
