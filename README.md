@@ -1,4 +1,4 @@
-### Hi! Nice to meet you :raised_hand_with_fingers_splayed:
+### Hi! Nice to meet you :raised_hand_with_fingers_splayed: :relaxed:
 I'm Tuan Pham. Currently, i am studying Data Science at Industrial University of Ho Chi Minh City in Viet Nam. I like problem-based learning, so I often go into real-life problems to find solutions and gain knowledge from them. By this method, I expect to be able to improve my working capacity to solve more specialized tasks accurately, efficiently and quickly.
 ### 🛠 &nbsp;Tech Stack
 
