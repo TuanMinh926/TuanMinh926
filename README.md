@@ -9,4 +9,4 @@ I'm Tuan Pham. Currently, i am studying Data Science at Industrial University of
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:mtp92621@gmail.com"><img src="https://img.shields.io/badge/-mtp92621@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mtp92621@gmail.com"><img src="https://img.shields.io/badge/-phamminhtuan2691@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
